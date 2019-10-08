@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "outDir": "build",
+      "lib": ["es2015","es2016","dom"],
+      "declaration": true,
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "removeComments": false,
+      "sourceMap": true,
+      "importHelpers": true
+    }
+}
